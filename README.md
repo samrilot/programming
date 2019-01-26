@@ -1,3 +1,2 @@
-# programming
-Programming Assignments
+# Programming
 All Programming Assignments that I have done.
